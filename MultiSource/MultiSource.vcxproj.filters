@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Shradha Shalini\Documents\Kinect2Sample-master\sample\MultiSource\app.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Shradha Shalini\Documents\Kinect2Sample-master\sample\MultiSource\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Shradha Shalini\Documents\Kinect2Sample-master\sample\MultiSource\app.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Shradha Shalini\Documents\Kinect2Sample-master\sample\MultiSource\util.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Shradha Shalini\Documents\Kinect2Sample-master\sample\MultiSource\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4B48C2F4-97B1-3262-A94D-6C69B585157D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{23D2B274-03C1-38FB-B3D2-87A2F99E3D90}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

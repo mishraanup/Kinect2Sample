@@ -1,0 +1,12 @@
+# CMake generation dependency list for this directory.
+C:/Users/Shradha Shalini/Documents/Kinect2Sample-master/sample/JointSmooth/CMakeLists.txt
+C:/Users/Shradha Shalini/Documents/Kinect2Sample-master/sample/JointSmooth/FindKinectSDK2.cmake
+C:/Program Files/opencv/build/OpenCVConfig-version.cmake
+C:/Program Files/opencv/build/OpenCVConfig.cmake
+C:/Program Files/opencv/build/x64/vc14/lib/OpenCVConfig.cmake
+C:/Program Files/CMake/share/cmake-3.7/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.7/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-3.7/Modules/CMakeParseArguments.cmake
+C:/Program Files/opencv/build/x64/vc14/lib/OpenCVModules.cmake
+C:/Program Files/opencv/build/x64/vc14/lib/OpenCVModules-debug.cmake
+C:/Program Files/opencv/build/x64/vc14/lib/OpenCVModules-release.cmake
