@@ -1,0 +1,4 @@
+# CMake generation dependency list for this directory.
+C:/Users/Shradha Shalini/Documents/Kinect2Sample-master/sample/Speech/CMakeLists.txt
+C:/Users/Shradha Shalini/Documents/Kinect2Sample-master/sample/Speech/FindKinectSDK2.cmake
+C:/Users/Shradha Shalini/Documents/Kinect2Sample-master/sample/Speech/FindSpeechPlatformSDK.cmake
