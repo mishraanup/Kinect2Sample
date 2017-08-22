@@ -1,6 +1,1 @@
-﻿  Building Custom Rule C:/Users/Shradha Shalini/Documents/Kinect2Sample-master/sample/AudioBeam/CMakeLists.txt
-  CMake does not need to re-run because C:\Users\Shradha Shalini\Documents\Kinect2Sample-master\sample\build2\AudioBeam\CMakeFiles\generate.stamp is up-to-date.
-  app.cpp
-  main.cpp
-  Generating Code...
-  AudioBeam.vcxproj -> C:\Users\Shradha Shalini\Documents\Kinect2Sample-master\sample\build2\bin\Debug\AudioBeam.exe
+﻿  AudioBeam.vcxproj -> C:\Users\Shradha Shalini\Documents\Kinect2Sample-master\sample\build2\bin\Debug\AudioBeam.exe
